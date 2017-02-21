@@ -16,6 +16,11 @@ kuri padėtų siekti užsibrėžtų finansinių tikslų.
 - Perspėti apie viršijimą biudžetą el. paštu.
 - Nuskenuoti/nufotografuoti prikimo čekį ir nuskaityti jo duomenis bei įkelti į patiriamas išlaidas pagal kategorijas.
 
+## Verslo tikslai
+Sėkmingai pardavimų veiklai užtikrinti, įmonėms svarbu turėti vartotojų elgsenos, stebėsenos, vertinimo ir analizavimo įrankį. Tam reikia sukaupti pakankamą duomenų kiekį, kuris garantuotų tikslų vartotojų vertinimą. Tuo tikslu kuriama informacinė sistema, kuri būtų naudinga naudotojams, o verlui suteiktų galimybę kaupti reprezentatyvius vartotojų duomenis.
+
 ## Aktoriai ir atributai
-- Bet kuris asmuo.
-- Šeima/draugai/komanda.
+- Anoniminis/neregistruotas naudotojas
+- Registruotas naudotojas
+- Grupės/šeimos valdytojas
+- Grupės/šeimos narys
