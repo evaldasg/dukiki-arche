@@ -1,10 +1,10 @@
-Aasmeninių finansų patarėjo informacinė sistema
+Asmeninių finansų patarėjo informacinė sistema
 ===============================================
 #### Sukūrė: Evaldas Grudzinskas
 
 ## Sistemos tikslas
 Sukurti asmeninių finansų planavimo, stebėjimo, vertinimo ir prognozavimo sistemą, 
-kuri padėtų siekti užsibrėžtų finansinių tikslų.
+kuri padėtų siekti užsibrėžtų asmeninių/grupės finansinių tikslų.
 
 
 ## Reikalavimai, funcionalumas
